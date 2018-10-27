@@ -5,7 +5,6 @@
 	<artifactId>java_certificado</artifactId>
     <version>1.9</version>
 	<name>Java_Certificado</name>
-	<packaging>war</packaging>
 
 	<distributionManagement>
 		<repository>
